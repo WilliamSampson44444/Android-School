@@ -1,0 +1,20 @@
+5
+100,Y. Byun,ybyun@csumb.edu,111-111-1111
+200,S. Narayanan,sathya@csumb.edu,222-222-2222
+300,M. Lara,lara@csumb.edu,333-333-3333
+250,S. Bude,bude@csumb.edu,444-123-4567
+500,G. Bruns,bruns@csumb.edu,555-222-2222
+4
+338,CST338 - Software Design,100,BIT 104
+205,CST205 - Multimedia Design and Programming,200,BIT 118
+306,CST306 - Game Engine Programming,100,BIT 104
+336,CST336 - Internet Programming,300,Library 1010
+6
+7777,Alice Otter,338,89.50,B
+7777,Alice Otter,306,98.00,A
+7777,Alice Otter,205,71.00,C
+7777,Alice Otter,336,81.55,B
+9999,John Doe,338,89.50,B
+8888,Bob Otter,205,75.00,C
+
+306
